@@ -6,7 +6,7 @@ esta en desarrollo
 
 hay direcciones locales que hay que cambiar 
 
-y en un iré comentando las funciones 
+iré comentando las funciones 
 
 
 os pido disculpas .........
