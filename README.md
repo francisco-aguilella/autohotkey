@@ -12,3 +12,5 @@ iré comentando las funciones
 os pido disculpas .........
 
 no tengo mucho tiempo libre
+
+26/12/2019
