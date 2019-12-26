@@ -1,16 +1,2 @@
-este programa funciona con el botón central de el ratón
+utilidad para el boton centra de el raton en windows
 
-utiliza los registros de windows para almacenar la información
-
-esta en desarrollo
-
-hay direcciones locales que hay que cambiar 
-
-iré comentando las funciones 
-
-
-os pido disculpas .........
-
-no tengo mucho tiempo libre
-
-26/12/2019
